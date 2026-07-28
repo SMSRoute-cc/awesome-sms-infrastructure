@@ -62,3 +62,6 @@ Commercial SMS/A2P sending APIs, alphabetical. One neutral line each — not a r
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Related: Sender-ID Regulations Dataset
+Verified alphanumeric sender-ID rules, registration regimes and charset classes for 40 countries (JSON/CSV, CC-BY-4.0): [sms-sender-id-regulations](https://github.com/SMSRoute-cc/sms-sender-id-regulations)
